@@ -1,0 +1,8 @@
+D:\GitHub\Project\Giaiptbac1\Giaiptbac1\bin\Debug\Giaiptbac1.exe.config
+D:\GitHub\Project\Giaiptbac1\Giaiptbac1\bin\Debug\Giaiptbac1.exe
+D:\GitHub\Project\Giaiptbac1\Giaiptbac1\bin\Debug\Giaiptbac1.pdb
+D:\GitHub\Project\Giaiptbac1\Giaiptbac1\obj\Debug\Giaiptbac1.csproj.AssemblyReference.cache
+D:\GitHub\Project\Giaiptbac1\Giaiptbac1\obj\Debug\Giaiptbac1.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Project\Giaiptbac1\Giaiptbac1\obj\Debug\Giaiptbac1.csproj.CoreCompileInputs.cache
+D:\GitHub\Project\Giaiptbac1\Giaiptbac1\obj\Debug\Giaiptbac1.exe
+D:\GitHub\Project\Giaiptbac1\Giaiptbac1\obj\Debug\Giaiptbac1.pdb
